@@ -7,7 +7,7 @@ Developed by **Ronaldo Araújo**, this project applies digital signal processing
 ## What is Presbycusis?
 [**Presbycusis**](https://en.wikipedia.org/wiki/Presbycusis) is a progressive, irreversible sensorineural hearing loss caused by the natural aging and degeneration of the inner ear. It typically affects both ears equally and is most pronounced at high frequencies, making it difficult to distinguish specific speech sounds or high-pitched noises. This project simulates that experience by using a low-pass filter to remove frequencies above a specific threshold.
 
-The main characteristic of Presbycusis is the difficulty in hearing **high-frequency sounds**. In practical terms, this makes it hard to distinguish certain speech sounds (like "s" or "th") and hear high-pitched noises. By using a low-pass filter, this project mimics that experience by removing frequencies above a specific threshold.
+The main characteristic of Presbycusis is the difficulty in hearing **high-frequency sounds**. In practical terms, this makes it hard to distinguish certain speech sounds and hear high-pitched noises. By using a low-pass filter, this project mimics that experience by removing frequencies above a specific threshold.
 
 ---
 
