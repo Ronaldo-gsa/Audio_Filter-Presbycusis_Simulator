@@ -45,5 +45,4 @@ This script is compatible with any audio file in `.wav` format. To use your own 
 4.  Run the script to generate the filtered file and view the analysis.
 
 > [!NOTE]
-
 > The output files are automatically saved as `mono_file_normalized.wav` and `filtered_file_[freq]Hz.wav`.
