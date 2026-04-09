@@ -13,14 +13,13 @@ from scipy.fft import fft, fftfreq # FFT
 
 
 # ============================================
-# region 2. Read audio file
+# region 2. Audio and filter parameters
 
 audio_path = 'assets/audio_files/5th_symphony.wav'
+samplerate, data = wavfile.read(audio_path)
 
 order = 4
 freq_cut_off = 1500
-
-samplerate, data = wavfile.read(audio_path)
 # endregion
 
 
