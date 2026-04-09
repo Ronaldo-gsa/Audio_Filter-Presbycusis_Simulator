@@ -17,7 +17,7 @@ The graph below illustrates the impact of the Butterworth filter on the audio sp
 
 ![FFT audio](assets/FFT_Symp5_1500Hz.png)
 
-To experience the simulation, watch the video comparison below. It alternates between the original masterpiece and the version processed with the Presbycusis simulation.
+To experience the simulation, watch the video comparison below. It alternates between the original and the version filtered with the Presbycusis simulation.
 
 https://github.com/user-attachments/assets/8efac472-94d3-4b22-8e0a-7ad22d9ed49b
 
