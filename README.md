@@ -11,6 +11,19 @@ The main characteristic of Presbycusis is the difficulty in hearing **high-frequ
 
 ---
 
+## Visualizing the Results
+
+The graph below illustrates the impact of the Butterworth filter on the audio spectrum. You can observe the attenuation of frequencies above 1500Hz, simulating the loss of high-pitched sensitivity.
+
+![FFT audio](assets/FFT_Symp5_1500Hz.png)
+
+To experience the simulation, watch the video comparison below. It alternates between the original masterpiece and the version processed with the Presbycusis simulation.
+
+https://github.com/user-attachments/assets/8efac472-94d3-4b22-8e0a-7ad22d9ed49b
+
+
+---
+
 ## Dependencies
 
 To run this script, you need Python installed along with the following libraries:
